@@ -197,3 +197,5 @@ FakesAssemblies/
 
 # Project exclude paths
 /cmake-build-debug/
+
+.idea
